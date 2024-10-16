@@ -1,0 +1,31 @@
+.Container1{
+	background-color: #a39193;
+	text-align: center;
+}
+
+.container2{
+	background-color: #aa6f73 ;
+	width: 245px;
+	padding: 15px;
+	border: 3px dotted lavender;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+  margin: auto;
+}
+
+body{
+	background-image: url(https://www.obmontessori.edu.ph/assets/images/home/campuses/FACADE%20THUMBNAIL_FAIRVIEW.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+label{
+	font-style: otalic;
+	font-weight: bold;
+}
+#submit{
+	background-color: #faf5f5;
+	border-radius: 15px;
+	font-size: 20px;
+}
